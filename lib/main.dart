@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
             MyTheme.kPrimaryColorVariant),
         visualDensity: VisualDensity.standard,
       ),
-      home: SplashScreen(),
+      home: SplashScreen(),// checking splash screen
     );
   }
 }
